@@ -1,2 +1,3 @@
 # Collections of Articles/Scripters Submitted To GeeksForGeeks 
-- 1 Minimum XOR Value Pair  [Python] 
+-  Minimum XOR Value Pair  [Python] 
+-  Merge Sort for Linked List [Python]
